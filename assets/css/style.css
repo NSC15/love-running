@@ -20,6 +20,7 @@ h1,h2 {
 #logo {
 float:left;
 font-size:280%;
+margin-left:30px;
 }
 
 #menu {
@@ -88,4 +89,23 @@ font-size:280%;
     position:absolute;
     bottom:30px;
     right: 130px;
+}
+
+#club-ethos {
+    height:600px;
+}
+#left-about {
+    padding-top:30px;
+    width:33%;
+    float:left;
+}
+#right-about {
+    padding-top:30px;
+    width:33%;
+    float:right;
+}
+#center-about {
+    padding-top:30px;
+    width:30%;
+    margin:0 auto;
 }
